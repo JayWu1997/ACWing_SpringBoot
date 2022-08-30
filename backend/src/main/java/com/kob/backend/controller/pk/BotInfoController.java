@@ -16,5 +16,6 @@ public class BotInfoController {
         bot.put("name", "orange");
         bot.put("rating", "1500");
         return bot;
+
     }
 }
